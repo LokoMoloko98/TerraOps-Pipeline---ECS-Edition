@@ -1,0 +1,6 @@
+TerraOps-Pipeline---ECS-Edition
+
+About
+TerraOps Pipeline - ECS Edition, is a CI/CD solution that utilizes AWS CodePipeline, AWS CodeBuild, and GitHub to effortlessly validate, plan, and apply Terraform configurations for ECS infrastructure ensuring efficiency and code quality.
+
+www.terraops.moloko-mokubedi.co.za
