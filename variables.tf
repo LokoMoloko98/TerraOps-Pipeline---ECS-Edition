@@ -68,18 +68,9 @@ variable "domain_name" {
   type        = string
 }
 
-variable "nlb_acm_cert_arn" {
-  description = "acm certificate for the network load balancer"
-  type        = string
-}
 
 variable "route53_hosted_zone_id" {
   description = "The ID of the hosted zone to contain this record."
   type        = string
 }
 
-#wazuh manager variables
-variable "wazuh_manager_ecr_image" {
-  description = "wazuh manager barefoot cyber docker image url"
-  type        = string
-}
